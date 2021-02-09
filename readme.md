@@ -5,12 +5,8 @@
 |Student Name  | Arun Manickathinal Sabu                   |
 |Student ID    | 040961617                   |
 
-## Lab03-00
+# Location 
 
-![alt text](lab03/Capture 00.JPG)
+![alt text](lab03/image0.JPG)
 
-
-## Lab03-03
-
-![alt text](lab03/Capture 3.JPG)
 
