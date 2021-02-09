@@ -20,3 +20,11 @@
 # Lab03 05
 
 ![alt text](lab03/image5.PNG)
+
+# Lab03 08
+
+![alt text](lab03/image8.PNG)
+
+# Lab03 11
+
+![alt text](lab03/image11.PNG)
