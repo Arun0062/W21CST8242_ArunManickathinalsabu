@@ -29,3 +29,51 @@
 
 ![alt text](lab03/image10.PNG)
 
+# Lab03 15
+
+![alt text](lab03/image15.PNG)
+
+# Lab03 18
+
+![alt text](lab03/image18.PNG)
+
+# Lab03 21
+
+![alt text](lab03/image21.PNG)
+
+# Lab03 24
+
+![alt text](lab03/image24.PNG)
+
+# Lab03 26
+
+![alt text](lab03/image26.PNG)
+
+# Lab03 29
+
+![alt text](lab03/image29.PNG)
+
+# Lab03 30
+
+![alt text](lab03/image30.PNG)
+
+# Lab03 31
+
+![alt text](lab03/image31.PNG)
+
+# Lab03 32
+
+![alt text](lab03/image32.PNG)
+
+# Lab03 35
+
+![alt text](lab03/image35.PNG)
+
+
+
+
+
+
+
+
+
