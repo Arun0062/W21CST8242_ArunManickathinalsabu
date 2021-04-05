@@ -7,7 +7,7 @@
 
 ## Lab08-01
 
-![alt text](lab08/image1.PNG)
+![alt text](lab08/image_1.PNG)
 
 
 ## Lab08-02
